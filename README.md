@@ -2,7 +2,7 @@
 Java SDK for Shopify REST APIs
 
 ### List of Technical Operations
-> After Checkout fetch & download an order with the speed of 960 orders per minute.
+!!! After Checkout fetch & download an order with the speed of 960 orders per minute.
 > Order hold for 5 minutes in fulfilment Box, So Database jobs can update its additional information like, Vendor Tag, Store ID, Fulfilment Type. 
 > Auto fulfillment:  (This schedule after every 5 minutes) 
 > Courier wise auto fulfilment including DHL for international orders
