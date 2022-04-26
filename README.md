@@ -27,10 +27,10 @@ Java SDK for Shopify REST APIs
 * Fetch Day-to– day tracking of order from courier partners.
 * Fetch & update Exchange rate on daily basis. 
 * Inventory Sync:
-* Fetching inventory of each SKU from Shopify
-* Fetching SKU’s which are included in cart orders
-* Validation each SKU net quantity on given rules provided by ECOMM
-* Adjust quantity on Shopify.
+  * Fetching inventory of each SKU from Shopify
+  * Fetching SKU’s which are included in cart orders
+  * Validation each SKU net quantity on given rules provided by ECOMM
+  * Adjust quantity on Shopify.
 
 
 ## Flow chart of application
