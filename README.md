@@ -1,6 +1,9 @@
 # shopify-SDK
 Java SDK for Shopify REST APIs
 
+This is complete shopify solution that will work as middleware between shopify and your local Application.   
+It is communicating with Shopify server and databases (Oracle & SQLServer) to manage online store’s operations from order landing to hand over to customer. This application is fully integrated with Shopify and courier partners (DHL, TCS, TRAX , Call courier , TPL and Swyft).
+
 ### List of Technical Operations
 * After Checkout fetch & download an order with the speed of 960 orders per minute.
 * Order hold for 5 minutes in fulfilment Box, So Database jobs can update its additional information like, Vendor Tag, Store ID, Fulfilment Type. 
