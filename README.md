@@ -39,3 +39,11 @@ It is communicating with Shopify server and databases (Oracle & SQLServer) to ma
 ## Flow chart of application
 ![Alt text](https://github.com/Oracle-Programming-School/shopify-SDK/blob/main/images/flow1.png?raw=true "Optional Title")
 ![Alt text](https://github.com/Oracle-Programming-School/shopify-SDK/blob/main/images/flow2.png?raw=true "Optional Title")
+
+## How to use this Application
+
+* Downlaod this code and  configration in it.
+* Generate Jar file and run of windows server
+
+![Alt text](https://github.com/Oracle-Programming-School/shopify-SDK/blob/main/images/app.png?raw=true "Optional Title")
+After that this application will automaticallay downlaod & process orders. 
