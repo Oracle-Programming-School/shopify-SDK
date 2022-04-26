@@ -1,0 +1,3 @@
+jdbc:oracle:thin:@localhost:1521:xe
+apps
+apps
