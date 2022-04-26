@@ -1,5 +1,5 @@
 # shopify-SDK
-Java SDK for Shopify REST APIs
+Java SDK for Shopify REST APIs , Contact us for demo & understanding of this Application : [Muhammad Faisal](https://github.com/MuhammadFaisal1521)
 
 This is complete shopify solution that will work as middleware between shopify and your local Application.   
 It is communicating with Shopify server and databases (Oracle & SQLServer) to manage online store’s operations from order landing to hand over to customer. This application is fully integrated with Shopify and courier partners (DHL, TCS, TRAX , Call courier , TPL and Swyft).
